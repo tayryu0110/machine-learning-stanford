@@ -5,7 +5,7 @@ Created by Standford University.
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-![](\ml_certificate.JPG)
+![](ml_certificate.JPG)
 
 ## Introduction
 This repository contains my programming assignments for Andrew Ng's Coursera Class. 
