@@ -5,6 +5,8 @@ Created by Standford University.
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
+![](ml_certificate.pdf)
+
 ## Introduction
 This repository contains my programming assignments for Andrew Ng's Coursera Class. 
 
